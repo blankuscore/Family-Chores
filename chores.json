@@ -1,18 +1,18 @@
 [
     {
-        "catlitter": {
+        "cat litter": {
             "time":5.0,
             "comfort":0.25,
             "responsibility":1.0,
             "frequency":52.0
         },
-        "cleandishes": {
+        "clean dishes": {
             "time":4.0,
             "comfort":1.0,
             "responsibility":0.5,
             "frequency":52.0
         },
-        "dirtydishes": {
+        "dirty dishes": {
             "time":4.0,
             "comfort":0.75,
             "responsibility":0.5,
@@ -23,6 +23,30 @@
             "comfort":0.5,
             "responsibility":1.0,
             "frequency":52.0
+        },
+        "laundry": {
+            "time":5,
+            "comfort":0.5,
+            "responsibility":1.0,
+            "frequency":52.0
+        },
+        "mow lawn": {
+            "time:": 30.0,
+            "comfort": 1.0,
+            "responsibility":0.5,
+            "frequency":52.0
+        },
+        "vacuum": {
+            "time:": 15.0,
+            "comfort": 1.0,
+            "responsibility":0.5,
+            "frequency":52.0
+        },
+        "tidy room": {
+            "time": 10.0,
+            "comfort": 1.0,
+            "responsibility": 1.0,
+            "frequency": 104.0
         }
     }
 ]
