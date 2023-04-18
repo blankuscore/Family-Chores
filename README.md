@@ -12,11 +12,11 @@ For example, scooping cat litter has a standard difficulty, standard responsibil
 
 <details>
     <summary><b>Cleaning the cat litter</b></summary>
-    ### Parameters
-    - time: about 5 minutes
-    - comfort: very uncomfortable
-    - responsibility: everyone is responsible
-    - frequency : weekly
+### Parameters
+- time: about 5 minutes
+- comfort: very uncomfortable
+- responsibility: everyone is responsible
+- frequency : weekly
 </details>
 <details>
     <summary><b>Putting away the clean dishes</b></summary>
